@@ -1,5 +1,5 @@
 # Vrinda-Store-Data-Analysis
-Vrinda Store Dataset file
+Vrinda Store Dataset
 Open the Vrinda Store Dataset file
 Must read the objective and questions of the dataset
 
